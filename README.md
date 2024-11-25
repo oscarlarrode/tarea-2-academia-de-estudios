@@ -10,3 +10,6 @@
  - de las clases se sabe(direccion,precio,fecha de las clases,horarios)
  - de los examenes se sabe(asignatura,fecha,tema)
  - de los apuntes se sabe(asignatura,punto del tema,tema)
+ -![image](https://github.com/user-attachments/assets/4d2b156f-3a95-4b5d-b642-2b089386da79)
+
+
